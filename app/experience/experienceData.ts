@@ -25,10 +25,10 @@ const experiences: Experience[] = [
     time: "Feb 2023 - Nov 2023",
   },
   {
-    company_name: "Rouge International",
-    website: "https://www.future-engine.net/",
-    job_desc: "Technology Division",
-    time: "Jun 2022 - Aug 2022",
+    company_name: "Langya AI Limited",
+    website: "https://langyaai.com/",
+    job_desc: "Digital Marketing",
+    time: "Jul 2023 - Aug 2023",
   },
 ];
 
